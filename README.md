@@ -1,11 +1,11 @@
 # Attendance-App
 <h3>Introduction</h3>
-This project helps Teachers to take attendance and store, fetch data from mysql db using server (php).
+This project helps Teachers to take attendance and store, fetch data from MySQL Database using server (php).
 
 # Features
-- Beautiful LoginScreen.
+- Provides User-friendly interface.
 - Teachers will be able to take attendance and save in database on server.
-- Fetch attendance data according to calendar date selection.
+
 
 # How it works
 - First Teachers/Mentor/Other Login from LoginScreen (currently user login is predefined in mysql)
@@ -15,7 +15,7 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 - When submit button selected, all selected rollno is saved on mysql database (backend php server).
 - Check record of attendance data from attendanceView section,Which display student present/absent from selected date.
 
-# GuideLines
+# GuideLines for the setup of the Application
 
  <b> Setup:-</b>
  <br> </br>
@@ -51,56 +51,11 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 	6. Finally test app in emulator/phone (for phone, you should config wamp to work on your phone ).<br>
 
 # Note
-1. User login details is predefined (manually insert login details in demo2/teacher table).
+ User login details is predefined (manually insert login details in demo2/teacher table).
 
-# ScreenShots
-<p>
-<img src= "https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154551.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154641.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154659.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154717.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154731.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154748.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154810.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-154830.png"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/RajneeshSingh007/Attendance-App/master/screenshots/device-2017-04-21-155021.png"/>
-</p>
-
-# Library
-
-<p>
- <ul>
- <li>
-       <a href="https://github.com/amitshekhariitbhu/Fast-Android-Networking"><b>Fast-Android-Networking</b></a>
- </li>
-     <li>
-        <a href="https://github.com/vikramkakkar/SublimePicker"><b>SublimePicker</b></a>    
-    </li>
- </ul>
- </p>
-
-# Contact :
-
- <p>mailto:developerrajneeshsingh@gmail.com</p>
 
 # MIT License
-<pre>Copyright (c) 2017 Rajneesh Singh
+<pre>Copyright (c) 2017 Jignesh Nagada
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
